@@ -1,0 +1,106 @@
+body {
+    background-color: #0D1A2D;
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+hr {
+    width: 80%;
+}
+
+/*----------------------Classes v ------------------------*/
+
+.description {
+    width: 70%;
+    text-align: left;
+    padding-left: 17.5%;
+}
+
+.nft-box{
+    background-color: #13273F;
+    display: inline-block;
+    height: 45rem;
+    width: 20%;
+    text-align: center;
+    margin: 3% auto;
+    border-radius: 20px;
+}
+
+.alien{
+    display: inline-block;
+    position: relative;
+    top: 2.5rem;
+    width: 60%;
+    height: 50%;
+    margin: auto;
+    background-color: rgb(89, 80, 141);
+    border-radius: 7px;
+}
+
+.alien-img{
+    margin-top: 40px;
+}
+
+
+.content {
+    margin: 22% 0 0;
+    color: white;
+}
+
+.green-text {
+    color: #00FFF8;
+    margin: 0 0 0 10px;
+    width: 90px;
+}
+
+.price {
+    display: inline-block;
+    width: 17rem;
+    margin: 1.7rem 0 0 0;
+}
+
+.eth-icon{
+    float: left;
+}
+
+.clock{
+    position: relative;
+    bottom: 18px;
+    height: 18px;
+    margin-left: 55%;
+    margin-bottom: 18px;
+    color: #00FFF8;
+}
+
+
+.time-left {
+    display: inline-block;
+    position: relative;
+    bottom: 18px;
+    left: 5px;
+    margin: 0 0 18px 0;
+    color: #00FFF8;
+}
+
+.btn-buy {
+    position: relative;
+    bottom: 10px;
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn-buy:hover {
+	background-color:#5cbf2a;
+}
